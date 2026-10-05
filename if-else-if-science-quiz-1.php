@@ -1,6 +1,6 @@
 <?php
 
-// declard variables with values
+// declare variables with values
 // scoring variables
 $score = 0; // you'll start at 0
 $correct = 1; 
